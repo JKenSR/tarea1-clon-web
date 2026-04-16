@@ -102,7 +102,7 @@ nav ul li a:hover {
 }
 
 .banner-principal {
-    background: url('img/banner-promo.jpg') center/cover; /* Pon aquí tu imagen de Cooler Master */
+    background: url('img/Case.png') center/cover; /* Pon aquí tu imagen de Cooler Master */
     background-color: #000;
     height: 400px;
     border-radius: 15px;
